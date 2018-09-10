@@ -1,2 +1,3 @@
-# Notes
-This application is use to add and store notes using local storage and user specific and task specific 
+# React redux boilerplate with minimal build configuration without using Create-react-app
+
+This boilerplate is Using React, Redux, Redux-observables, Webpack, babel, 
