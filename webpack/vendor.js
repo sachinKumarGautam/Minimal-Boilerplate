@@ -8,7 +8,6 @@ const vendor = [
   'react-virtualized',
   'redux',
   'redux-observable',
-  'react-toolbox',
   'react-hot-loader',
   'rxjs',
   'lodash',
