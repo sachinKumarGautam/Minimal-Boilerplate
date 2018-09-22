@@ -18,6 +18,13 @@ const theme = createMuiTheme({
       main: green[500],
       dark: green[700]
     }
+  },
+  overrides: {
+    MuiPaper: {
+      elevation1: {
+        boxShadow: '0 0 6px 0 rgba(224, 224, 224, 0.72)'
+      }
+    }
   }
 })
 
