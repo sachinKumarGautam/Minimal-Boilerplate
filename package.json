@@ -6,7 +6,7 @@
   "scripts": {
     "test": "eslint .",
     "start": "webpack-dev-server --inline --mode development",
-    "build": "NODE_ENV=production webpack --config ./webpack.production.config.js"
+    "build": "NODE_ENV=production webpack"
   },
   "repository": {
     "type": "git",
